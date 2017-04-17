@@ -1,7 +1,7 @@
 # test coverage for  [babelify (v7.3.0)](https://github.com/babel/babelify)  [![npm package](https://img.shields.io/npm/v/npmtest-babelify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-babelify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-babelify.svg)](https://travis-ci.org/npmtest/node-npmtest-babelify)
 #### Babel browserify transform
 
-[![NPM](https://nodei.co/npm/babelify.png?downloads=true)](https://www.npmjs.com/package/babelify)
+[![NPM](https://nodei.co/npm/babelify.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/babelify)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-babelify/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-babelify/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-babelify/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-babelify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-babelify/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-babelify/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-babelify/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-babelify/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-babelify/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-babelify/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-babelify%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-babelify/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-babelify/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-babelify/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-babelify/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-babelify%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-babelify/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-babelify/build/test-report.html](https://npmtest.github.io/node-npmtest-babelify/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-babelify/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-babelify/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-babelify/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-babelify/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-babelify/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-babelify/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-babelify/build/screenCapture.npmPackageListing.svg)
 
@@ -27,8 +33,7 @@
 
 {
     "author": {
-        "name": "Sebastian McKenzie",
-        "email": "sebmck@gmail.com"
+        "name": "Sebastian McKenzie"
     },
     "bugs": {
         "url": "https://github.com/babel/babelify/issues"
@@ -61,17 +66,14 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "sebmck",
-            "email": "sebmck@gmail.com"
+            "name": "sebmck"
         },
         {
-            "name": "zertosh",
-            "email": "zertosh@gmail.com"
+            "name": "zertosh"
         }
     ],
     "name": "babelify",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/babel/babelify.git"
