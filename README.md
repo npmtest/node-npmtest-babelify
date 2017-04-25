@@ -1,4 +1,7 @@
-# test coverage for  [babelify (v7.3.0)](https://github.com/babel/babelify)  [![npm package](https://img.shields.io/npm/v/npmtest-babelify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-babelify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-babelify.svg)](https://travis-ci.org/npmtest/node-npmtest-babelify)
+# npmtest-babelify
+
+#### basic test coverage for  [babelify (v7.3.0)](https://github.com/babel/babelify)  [![npm package](https://img.shields.io/npm/v/npmtest-babelify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-babelify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-babelify.svg)](https://travis-ci.org/npmtest/node-npmtest-babelify)
+
 #### Babel browserify transform
 
 [![NPM](https://nodei.co/npm/babelify.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/babelify)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-babelify/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-babelify/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-babelify/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-babelify/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-babelify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-babelify/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-babelify/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-babelify/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-babelify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-babelify/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-babelify/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-babelify/build/coverage.html/index.html)
 
@@ -81,7 +84,8 @@
     "scripts": {
         "test": "tap test/*.js"
     },
-    "version": "7.3.0"
+    "version": "7.3.0",
+    "bin": {}
 }
 ```
 
